@@ -1,0 +1,15 @@
+
+1.Run the cmd:
+
+$ npm install
+
+2.Run the cms:
+
+ $ npm run serve
+
+3.Open in the browser with respective port:
+
+like:
+
+http://localhost:8080/
+
